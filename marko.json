@@ -1,0 +1,12 @@
+{
+  "<i18n-var>": {
+     "@name": "identifier",
+     "code-generator": "./taglib/i18n-var-tag.js"
+   },
+  "<i18n-message>": {
+    "renderer": "./taglib/i18n-message.js",
+    "@key": "string",
+    "@escape": "boolean",
+    "@*": "string"
+  }
+}
