@@ -1,17 +1,16 @@
 {
-  "name": "dwp-i18next-narko-components",
+  "name": "marko-i18next",
   "description": "Components to use i18next in Marko templates.",
   "version": "0.1.0",
   "keywords": [
     "marko-taglib",
     "marko",
     "gov.uk",
-    "dwp",
     "i18next"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gunjam/dwp-i18next-narko-components.git"
+    "url": "https://github.com/gunjam/marko-i18next.git"
   },
   "author": "Niall Molloy <niallmolloy.digitaldwp@gmail.com>",
   "maintainers": [
