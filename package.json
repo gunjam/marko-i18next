@@ -1,7 +1,7 @@
 {
   "name": "marko-i18next",
   "description": "Components to use i18next in Marko templates.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "keywords": [
     "marko-taglib",
     "marko",
