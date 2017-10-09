@@ -57,7 +57,7 @@ messages to attributes:
 <form>
   ...
   <input type="submit" value=i18n('namespace:submit')/>
-</input>
+</form>
 ```
 
 With interpolated strings:
@@ -68,7 +68,7 @@ With interpolated strings:
 <form>
   ...
   <input type="submit" value=i18n('namespace:nameSubmit', {name: 'George'})/>
-</input>
+</form>
 ```
 
 ## Contributing
